@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+
+    <item
+            android:id="@+id/pagingFragment"
+            android:icon="@drawable/paging"
+            android:title="@string/paging"/>
+
+    <item
+            android:id="@+id/networkFragment"
+            android:icon="@drawable/network"
+            android:title="@string/network" />
+
+    <item
+            android:id="@+id/roomFragment"
+            android:icon="@drawable/room"
+            android:title="@string/room" />
+
+
+
+
+</menu>

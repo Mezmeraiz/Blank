@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Blank</string>
+    <string name="paging">Paging</string>
+    <string name="network">Network</string>
+    <string name="room">Room</string>
+    <string name="name">%1$s %2$s</string>
+    <string name="saved_success">Сохранено!</string>
+    <string name="saved_error">Ошибка! Пользователь уже находится в базе.</string>
+</resources>
